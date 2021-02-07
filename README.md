@@ -5,3 +5,6 @@
 4. NLP training project
 5. ufcReach project - is my own current work, which is considered to check my hypothesis to what extent fighter's reach advantage affects his performance. 
 6. Interactive covid-19 project
+
+upd:
+Linear Regression model for Diabetes dataset from sklearn.datasets 
